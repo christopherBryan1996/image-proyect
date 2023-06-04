@@ -17,4 +17,12 @@
     </code>
 </pre>
 
+<p>para instalar todo lo que se necesita con el siguente comando es igual para cualquier sistema </p>
+
+<pre>
+    <code>
+        pip instal -r requerements.txt 
+    </code>
+</pre>
+
 <p>Todo estara contenido en la carpeta src y ordenado</p>
