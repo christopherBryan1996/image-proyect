@@ -84,7 +84,7 @@ def tab_modify():
 
         combo = ttk.Combobox(tab,
             state="readonly",
-            values=["Escala de grises", "", "", ""]#Aqui se agregan lo que estara en la lista
+            values=["Escala de grises", "Filtrado suavizado", "Umbralización", "Brillo", "Canny", "Laplaciano", "Contornos"]#Aqui se agregan lo que estara en la lista
         )
         combo.grid(row=6,column=0)
 
